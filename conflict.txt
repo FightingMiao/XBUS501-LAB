@@ -1,0 +1,2 @@
+# I've added some text to test conflicts
+# Wow wow there is much conflict.
